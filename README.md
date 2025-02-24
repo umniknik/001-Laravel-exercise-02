@@ -1,6 +1,6 @@
 ## Код созданного файла composer.json.
 
-`
+```
 {
     "name": "kiclitcyn/kislitcyn",
     "description": "Домашнее задание по Composer",
@@ -19,4 +19,4 @@
         "psr/log": "^3.0"
     }
 }
-`
+```
